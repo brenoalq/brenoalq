@@ -1,4 +1,4 @@
-<h1 align="center">Breno Alqueres</h1>
+<h1 align="center">Breno Alquati</h1>
 <p align="center">Desenvolvedor Full-Stack · E-commerce · Análise e Desenvolvimento de Sistemas</p>
 
 ---
